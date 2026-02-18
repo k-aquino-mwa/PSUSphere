@@ -1,0 +1,5 @@
+Compiled Python files (*.pyc, __pycache__/) 
+Database files (like db.sqlite3) 
+Virtual environment folders (venv/, env/) 
+Django secret files and local settings 
+IDE/editor files (.vscode/, .idea/) 
